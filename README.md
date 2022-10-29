@@ -16,3 +16,5 @@ Sample query
             }
         }
     }`
+
+![img.png](img.png)
